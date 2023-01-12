@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on building performance and user friendly apps using #react #next #node.
+- 🌱 I’m currently learning more on GCP/AWS
+- 💬 Ask me about anything relate to #nextjs #xstate #perfs
+- 📫 How to reach me: @dsngo @truedsn
+- ⚡ Fun fact: I love watching dota and Messi :).
 <!--
 **dsngo/dsngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
